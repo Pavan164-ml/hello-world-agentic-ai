@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed on your system:
 1.  **Clone the Repository** (or download the files)
     ```bash
     git clone https://github.com/Pavan164-ml/hello-world-agentic-ai.git
-    cd local-agent-project
+    cd hello-world-agentic-ai
     ```
     *(If you didn't use git, just navigate to the project folder you created).*
 
